@@ -1,6 +1,7 @@
 Comandos
 
 Para ver archivos ocultos en Windows: dir /ah
+Para ver la configuracion de usuario de Git: git config --list
 
 
 
