@@ -1,0 +1,9 @@
+Comandos
+
+Para ver archivos ocultos en Windows: dir /ah
+
+
+
+Token de GitHub
+
+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
